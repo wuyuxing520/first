@@ -1,1 +1,3 @@
-print£¨hello world£©
+printï¿½ï¿½hello world
+
+i am wyx
